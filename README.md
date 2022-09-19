@@ -1,5 +1,7 @@
 <h1 align="center">Привет!</h1>
 
+<h2><a target="_blank" href="https://github.com/stars/KBA696/lists/portfolio">Работы для портфолио</a></h2>
+
 <h1 align="center">Контактная информация</h1>
 <p align="center" align='right'>
   <a target="_blank" href="https://vk.com/kba696"><img alt="VK" src="https://img.shields.io/badge/vk.com/kba696-007d34?&logo=VK&style=for-the-badge&logoColor=white" /></a>	
