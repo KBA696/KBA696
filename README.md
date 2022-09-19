@@ -16,7 +16,7 @@
 <h1 align="center">Навыки</h1>
 <p align="center" align='right'>
   <a target="_blank" href="#">
-    <img alt="CSharp" src="https://img.shields.io/badge/С# WPF-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+    <img alt="CSharp" src="https://img.shields.io/badge/c%23%20 WPF-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   </a>
   <a target="_blank" href="#">
     <img alt="SQL" src="https://img.shields.io/badge/SQL через ADO.NET(SQLite)-4479A1?style=for-the-badge&logo=SQLite&logoColor=black&textColor=black" /> 
