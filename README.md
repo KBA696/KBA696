@@ -1,6 +1,6 @@
 <h1 align="center">Привет!</h1>
 
-<h2><a target="_blank" href="https://github.com/stars/KBA696/lists/portfolio">Работы для портфолио</a></h2>
+<h2><a target="_blank" href="https://github.com/stars/KBA696/lists/portfolio">Портфолио</a></h2>
 
 <h1 align="center">Контактная информация</h1>
 <p align="center" align='right'>
