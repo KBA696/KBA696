@@ -15,7 +15,7 @@
 
 <h1 align="center">Навыки</h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://github.com/unchase?tab=repositories&q=&type=&language=c%23">
+  <a target="_blank" href="#">
     <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   </a>
   <img alt="SQL" src="https://img.shields.io/badge/SQL через ADO.NET-4479A1?style=for-the-badge&logo=mysql&logoColor=black&textColor=black" />
