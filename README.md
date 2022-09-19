@@ -13,7 +13,7 @@
 	</a>
 </p>
 
-<h1 align="center">Скил</h1>
+<h1 align="center">Скилл</h1>
 <p align="center" align='right'>
   <a target="_blank" href="https://github.com/unchase?tab=repositories&q=&type=&language=c%23">
     <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
