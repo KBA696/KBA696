@@ -4,7 +4,7 @@
 <a target="_blank" href="https://vk.com/kba696">
 	<img alt="VK" src="https://img.shields.io/badge/vk.com-0078D4.svg?&logo=VK&style=for-the-badge&logoColor=white" />
 </a>	
-<a target="_blank" href="Skype:kba696?add">
+<a target="_blank" href="#">
 	<img alt="Skype" src="https://img.shields.io/badge/Skype-0078D4.svg?&logo=Skype&style=for-the-badge&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:kba696@ya.ru">
