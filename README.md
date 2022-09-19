@@ -11,6 +11,7 @@
 	<a target="_blank" href="mailto:kba696@ya.ru">
 		<img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" />
 	</a>
+	<a target="_blank" href="https://t.me/kba696"><img src="https://img.shields.io/badge/kba696--2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 </p>
 
 <h1 align="center">Навыки</h1>
