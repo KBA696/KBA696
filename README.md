@@ -13,11 +13,11 @@
 	</a>
 </p>
 
-<h1 align="center">Скилл</h1>
+<h1 align="center">Навыки</h1>
 <p align="center" align='right'>
   <a target="_blank" href="https://github.com/unchase?tab=repositories&q=&type=&language=c%23">
     <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   </a>
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&textColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL через ADO.NET-4479A1?style=for-the-badge&logo=mysql&logoColor=black&textColor=black" />
   <img alt="GitHub через Visual Studio" src="https://img.shields.io/badge/GitHub через Visual Studio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
