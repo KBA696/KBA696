@@ -25,3 +25,12 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub через Visual Studio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center" align='right'>
+  <a target="_blank" href="#">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows%207-11-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> 
+  </a>
+  <a target="_blank" href="#">
+    <img alt="VSCode" src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+  </a>
+</p>
