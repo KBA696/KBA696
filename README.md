@@ -1,5 +1,7 @@
 <h1 align="center">Привет!</h1>
 
+<h2><a target="_blank" href="https://hh.ru/resume/7d00f3d7ff01faeb650039ed1f75523545696c">Моё резюме</a></h2>
+
 <h2><a target="_blank" href="https://github.com/stars/KBA696/lists/portfolio">Портфолио</a></h2>
 
 <h1 align="center">Контактная информация</h1>
