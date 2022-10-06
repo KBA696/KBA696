@@ -1,7 +1,5 @@
 <h1 align="center">Привет!</h1>
 
-<h2><a target="_blank" href="https://hh.ru/resume/7d00f3d7ff01faeb650039ed1f75523545696c">Моё резюме</a></h2>
-
 <h2><a target="_blank" href="https://github.com/stars/KBA696/lists/portfolio">Портфолио</a></h2>
 
 <h1 align="center">Контактная информация</h1>
@@ -36,3 +34,5 @@
     <img alt="Unity" src="https://img.shields.io/badge/Unity-007ACC.svg?&style=for-the-badge&logo=Unity&logoColor=white" /> 
   </a>
 </p>
+
+<h2><a target="_blank" href="https://hh.ru/resume/7d00f3d7ff01faeb650039ed1f75523545696c">Моё резюме</a></h2>
