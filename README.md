@@ -28,7 +28,7 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows%207‒11-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> 
   </a>
   <a target="_blank" href="#">
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual Studio-007ACC.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white" /> 
+    <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white" /> 
   </a>
     <a target="_blank" href="#">
     <img alt="Unity" src="https://img.shields.io/badge/Unity-007ACC.svg?&style=for-the-badge&logo=Unity&logoColor=white" /> 
